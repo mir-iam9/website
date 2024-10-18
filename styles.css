@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Roboto', sans-serif;
-  background-color: #4365E2;
+  background-color: #283618;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -47,9 +47,9 @@ h2 {
   display: block;
   padding: 10px;
   text-decoration: none;
-  background-color: #DDD9D6;
-  color: #4365E2;
-  border: 1px solid #002147;
+  background-color: #fefae0;
+  color: #283618;
+  border: 1px solid #606c38;
   border-radius: 6px;
   box-shadow: 0 3px 4px rgba(0, 0, 0, 0.1);
   transition: background-color 0.3s, transform 0.3s;
@@ -57,7 +57,7 @@ h2 {
 }
 
 .link:hover {
-  background-color: #f9f9f9;
+  background-color: #606c38;
   transform: translateY(-2px);
 }
 
